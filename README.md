@@ -51,7 +51,7 @@ The objective was to transform the provided Adobe XD mockup into a **pixel-perfe
 ## 🌐 Live Deployment
 This app is live on **Vercel**.  
 
-👉 **[View Live Demo](https://authentication-web-app-lovat.vercel.app/)**
+👉 **[View Live Demo](https://adobe-xd-design.vercel.app/)**
 ---
 ## ✨ Potential Enhancements
 - 🔑 Integrate **JWT Authentication & Secure Routes**

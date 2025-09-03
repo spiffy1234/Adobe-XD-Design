@@ -10,7 +10,9 @@ function Profile() {
     <div className="flex items-center justify-center min-h-screen bg-white">
       <div className="w-80 h-[500px] bg-white border border-gray-300 rounded-md shadow-sm overflow-hidden flex flex-col">
         <div className="px-4 py-3 border-b border-gray-200 bg-white">
-          <h2 className="text-lg font-semibold text-gray-500">Account Settings</h2>
+          <h2 className="text-lg font-semibold text-gray-500">
+            Account Settings
+          </h2>
         </div>
 
         <div className="flex-1 bg-gray-100 flex flex-col">
@@ -23,7 +25,7 @@ function Profile() {
               />
               <span className="absolute bottom-0 right-0 bg-purple-600 p-1 rounded-full border-2 border-white">
                 {/* <FaCamera className="text-white text-xs" /> */}
-                <img src={camicon} className="w-3 h-3"/>
+                <img src={camicon} className="w-3 h-3" />
               </span>
             </div>
             <div>
@@ -42,11 +44,8 @@ function Profile() {
               Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam
               Erat, Sed Diam
             </p>
-                      </div>
-            <div className="border-t border-dashed border-gray-300 my-2"></div>
-
-          <div className="flex-1 border-t border-dashed border-gray-200"></div>
-          <div className="h-8 border-t border-dashed border-gray-200"></div>
+          </div>
+          <div className="border-t border-dashed border-gray-300 my-2"></div>
         </div>
       </div>
     </div>
